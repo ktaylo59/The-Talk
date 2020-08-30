@@ -1,3 +1,9 @@
+
+The Talks is a weekly updated online interview magazine. Every week The Talks publishes an interview and portrait with a leading creative voice of our times, a curated selection of interviews with personalities from the fields of art, film, fashion, music, and sports. The Talks was founded in 2011 by Sven Schumann and Johannes Bonke.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
