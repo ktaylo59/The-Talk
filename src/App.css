@@ -81,13 +81,45 @@
       clear: both;
       display: table;
     }
+    #m1{
+      width: 500px;
+      height: 250px;
+    }
 #img1 {
-  height: 300px;
-  width:600px;
+  height: 63px;
+  width:136px;
 
 }
 .img-container {
-  
-  display: grid;
+    display: grid;
   grid-template-columns: 1fr 1fr;
+  
+}
+#img2 {
+  width: 136px;
+    height: 63px;
+}
+#img3 {
+  width: 136px;
+height: 63px
+}
+#img4 {
+  width: 136px;
+height: 63px
+}
+#img5 {
+  width: 136px;
+height: 63px
+}
+#img6 {
+  width: 136px;
+height: 63px
+}
+#img7 {
+  width: 136px;
+height: 63px
+}
+#img8 {
+  width: 136px;
+height: 63px
 }

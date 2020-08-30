@@ -12,7 +12,7 @@ function Home() {
 </nav>
 <section className='second'>
 <h3 className='title'>NEW INTERVIEW</h3>
-  <img src='https://the-talks.com/wp-content/uploads/2019/12/Matt-Damon-01.jpg' alt="matt" id='img1'/>
+  <img src='https://the-talks.com/wp-content/uploads/2019/12/Matt-Damon-01.jpg' alt="matt" id='m1'/>
   
 
     <h3 className='two'>INTERVIEW DIRECTORY</h3>
