@@ -91,35 +91,20 @@
 
 }
 .img-container {
+  position:relative;
     display: grid;
   grid-template-columns: 1fr 1fr;
   
 }
-#img2 {
+img {
   width: 136px;
     height: 63px;
+    opacity: 0.3;
 }
-#img3 {
-  width: 136px;
-height: 63px
-}
-#img4 {
-  width: 136px;
-height: 63px
-}
-#img5 {
-  width: 136px;
-height: 63px
-}
-#img6 {
-  width: 136px;
-height: 63px
-}
-#img7 {
-  width: 136px;
-height: 63px
-}
-#img8 {
-  width: 136px;
-height: 63px
+.center{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
 }
